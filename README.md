@@ -10,4 +10,4 @@ May nme is **Dana Powell**(he/him)
 ***I teach Computer Science at Kenwood Academy High School***
 
 I love mathematics and its many applications. In my spare time, I am always solving advanced math problems and learning current applications to Data Science, AI and Machine Learning, Physis, etc.
--->
+
